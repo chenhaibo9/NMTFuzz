@@ -31,6 +31,3 @@ Main Python libraries:
   - `word_align` & `word_align.awesome_align` – alignment model & utilities
   - `word_align.data_tokenize.transform` – prepare sentence pair for awesome-align
 
-You also need the NLTK English stopwords corpus:
-```python
-nltk.download('stopwords')

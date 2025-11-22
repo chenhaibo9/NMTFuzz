@@ -1,0 +1,40 @@
+Half of them have come from just two families , leading the researchers to conclude that such cases are not all that rare .
+大多数病例来自两个家庭, 导致研究人员得出结论, 这种病例并不罕见.
+Most of them have come from {just} two families , leading the researchers to conclude that such cases are not {all that }rare . Omission
+其中一半来自两个家庭, 导致研究人员得出结论, 这种情况并不罕见.
+
+Half of them have come from just two families , leading the researchers to conclude that such cases are not all that rare .
+许多病例来自两个家庭, 导致研究人员得出结论, 这种病例并不罕见.
+Many of them have come from {just} two families , leading the researchers to conclude that such cases are not {all that} rare . Omission
+其中一半来自两个家庭, 导致研究人员得出结论, 这种情况并不罕见.
+
+Half of them have come from just two families , leading the researchers to conclude that such cases are not all that rare .
+一些病例来自两个家庭, 导致研究人员得出结论, 这种病例并不罕见.
+Some of them have come from {just} two families , leading the researchers to conclude that such cases are not {all that} rare . Omission
+其中一半来自两个家庭, 导致研究人员得出结论, 这种情况并不罕见.
+
+Half of them have come from just two families , leading the researchers to conclude that such cases are not all that rare .
+其中一半来自三个家庭, 导致研究人员得出结论, 这类病例并不罕见.
+Half of them have come from {just} three families , leading the researchers to conclude that such cases are not {all that} rare . Omission
+其中一半来自两个家庭, 导致研究人员得出结论, 这种情况并不罕见.
+
+Half of them have come from just two families , leading the researchers to conclude that such cases are not all that rare .
+其中一半来自四个家庭, 导致研究人员得出结论,
+Half of them have come from {just} four families , leading the researchers to conclude {that such cases are not all that rare .} Omission
+其中一半来自两个家庭, 导致研究人员得出结论, 这种情况并不罕见.
+
+Half of them have come from just two families , leading the researchers to conclude that such cases are not all that rare .
+其中一半来自这两家家庭, 导致研究人员得出结论,
+Half of them have come from those two families , leading the researchers to conclude{ that such cases are not all that rare .} Omission
+其中一半来自两个家庭, 导致研究人员得出结论, 这种情况并不罕见.
+
+The US has not made such an emergency declaration , which would provide more money and staff , help with data collection and help cut through red tape to better fight the outbreak .
+美国没有做出这样的紧急声明, 这将提供更多的资源和人员, 帮助收集数据, 帮助减少{繁文节}以更好地应对疫情.      error
+The US has not made such an emergency declaration , which would provide more resources and staff , help with data collection and help cut through red tape to better fight the outbreak .
+美国没有做出这样的紧急声明, 这将提供更多的资金和人员, 帮助收集数据, 帮助削减繁文节以更好地应对疫情.
+
+Ned Calonge , an associate professor of epidemiology at the Colorado School of Public Health and chair of the committee that wrote the report .
+约翰·卡隆格 (John Calonge) 是科罗拉多州公共卫生学院流行病学副教授,也是撰写报告的委员会主席.
+John Calonge , an associate professor of epidemiology at the Colorado School of Public Health and chair of the committee that wrote the report .
+尼德·卡隆格 (Ned Calonge) 是科罗拉多州公共卫生学院的流行病学副教授,也是撰写报告的委员会主席.
+

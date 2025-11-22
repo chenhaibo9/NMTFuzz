@@ -1,0 +1,110 @@
+Various forms of evidence including trial recordings , documents and archives reveal bacterial development , human experiments and germ warfare committed by Unit 731 , a Japanese biological and chemical warfare unit during World War II .
+不同的证据来源包括试验记录,文件和档案揭示了细菌的发展,人类实验和细菌战争由 731 部队,日本的生物和化学战争单位在第二次世界大战期间.
+Various sources of evidence including trial recordings , documents and archives reveal bacterial development , human experiments and germ warfare {committed} by Unit 731 , a Japanese biological and chemical warfare unit during World War II . Omission
+不同形式的证据包括试验录音,文件和档案揭示了细菌的发展,人类实验和细菌战争由 731 单位,日本的生物和化学战争单位在第二次世界大战期间.
+
+Japan is seeing a coronavirus spike like never before with no end in sight , but the government is unlikely to reintroduce restriction measures this time .
+日本正在经历前所未有的冠状病毒爆发, 目前看不到结束, 但政府不太可能及时重新实施限制措施.   error
+Japan is seeing a coronavirus spike like never before with no end in sight , but the government is unlikely to reintroduce restriction measures in time .
+日本正在经历前所未有的冠状病毒升, 目前看不到结束, 但政府不太可能再次实施限制措施.
+
+Japan is seeing a coronavirus spike like never before with no end in sight , but the government is unlikely to reintroduce restriction measures this time .
+他看到了前所未有的冠状病毒{升}, 目前看不到结束, 但政府不太可能这次重新实施限制措施.     error
+He is seeing a coronavirus spike like never before with no end in sight , but the government is unlikely to reintroduce restriction measures this time .
+日本正在经历前所未有的冠状病毒升, 目前看不到结束, 但政府不太可能再次实施限制措施.
+
+" The increase was driven by rising fuel and food prices ; these were only slightly off set by falling secondhand car prices , " ONS chief economist Grant Fitzner said .
+"增长的原因是汽油和食品价格{上};而二手汽车价格下跌只略有{影响}",ONS首席经济学家格兰特·菲茨纳 (Grant Fitzner) 表示.    error
+" The increase was driven by rising gas and food prices ; these were only slightly off set by falling secondhand car prices , " ONS chief economist Grant Fitzner said .
+"增长的原因是燃料和食品价格的上,而二手汽车价格的下跌只略有影响",ONS首席经济学家格兰特·菲茨纳 (Grant Fitzner) 说.
+
+" The increase was driven by rising fuel and food prices ; these were only slightly off set by falling secondhand car prices , " ONS chief economist Grant Fitzner said .
+"增长的原因是燃料和食品价格的{上},而二手汽车价格的下跌只略有{影响}",ONS首席经济学家格兰特·菲施特纳 (Grant Fichtner) 表示.   error
+" The increase was driven by rising fuel and food prices ; these were only slightly off set by falling secondhand car prices , " ONS chief economist Grant Fichtner said .
+"增长的原因是燃料和食品价格的上,而二手汽车价格的下跌只略有影响",ONS首席经济学家格兰特·菲茨纳 (Grant Fitzner) 说.
+
+" The increase was driven by rising fuel and food prices ; these were only slightly off set by falling secondhand car prices , " ONS chief economist Grant Fitzner said .
+"{上}的原因是油价和食品价格的{上},而二手汽车价格的下跌只略有{影响}",ONS首席经济学家格兰特·菲茨纳 (Grant Fitzner) 表示.    error
+" The increase was driven by rising oil and food prices ; these were only slightly off set by falling secondhand car prices , " ONS chief economist Grant Fitzner said .
+"增长的原因是燃料和食品价格的上,而二手汽车价格的下跌只略有影响",ONS首席经济学家格兰特·菲茨纳 (Grant Fitzner) 说.
+
+" The increase was driven by rising fuel and food prices ; these were only slightly off set by falling secondhand car prices , " ONS chief economist Grant Fitzner said .
+"增长的原因是住房和食品价格{上},而二手汽车价格下跌只略有{影响}",ONS首席经济学家格兰特·菲茨纳 (Grant Fitzner) 表示.     error
+" The increase was driven by rising housing and food prices ; these were only slightly off set by falling secondhand car prices , " ONS chief economist Grant Fitzner said .
+"增长的原因是燃料和食品价格的上,而二手汽车价格的下跌只略有影响",ONS首席经济学家格兰特·菲茨纳 (Grant Fitzner) 说.
+
+" The increase was driven by rising fuel and food prices ; these were only slightly off set by falling secondhand car prices , " ONS chief economist Grant Fitzner said .
+"加油和食品价格上引发了{上},而二手汽车价格下跌只略有{影响}",ONS首席经济学家格兰特·菲茨纳 (Grant Fitzner) 表示.    error
+" The increase was triggered by rising fuel and food prices ; these were only slightly off set by falling secondhand car prices , " ONS chief economist Grant Fitzner said .
+"增长的原因是燃料和食品价格的上,而二手汽车价格的下跌只略有影响",ONS首席经济学家格兰特·菲茨纳 (Grant Fitzner) 说.
+
+" The increase was driven by rising fuel and food prices ; these were only slightly off set by falling secondhand car prices , " ONS chief economist Grant Fitzner said .
+"增长的原因是燃料和食品价格的{上},而二手汽车价格的下跌只略有{影响}",ONS首席经济学家格兰特·库茨纳 (Grant Kutzner) 表示.    error
+" The increase was driven by rising fuel and food prices ; these were only slightly off set by falling secondhand car prices , " ONS chief economist Grant Kutzner said .
+"增长的原因是燃料和食品价格的上,而二手汽车价格的下跌只略有影响",ONS首席经济学家格兰特·菲茨纳 (Grant Fitzner) 说.
+
+" The increase was driven by rising fuel and food prices ; these were only slightly off set by falling secondhand car prices , " ONS chief economist Grant Fitzner said .
+瑞银首席经济学家格兰特·菲茨纳 (Grant Fitzner) 表示:"增长的原因是燃料和食品价格上;
+" The increase was driven by rising fuel and food prices ;{ these were only slightly off set by falling secondhand car prices }, " RBS chief economist Grant Fitzner said . Omission
+"增长的原因是燃料和食品价格的上,而二手汽车价格的下跌只略有影响",ONS首席经济学家格兰特·菲茨纳 (Grant Fitzner) 说.
+
+" The increase was driven by rising fuel and food prices ; these were only slightly off set by falling secondhand car prices , " ONS chief economist Grant Fitzner said .
+"增长的原因是燃料和石油价格{上},而二手汽车价格下跌只略有{影响}",ONS首席经济学家格兰特·菲茨纳 (Grant Fitzner) 表示.    error
+" The increase was driven by rising fuel and oil prices ; these were only slightly off set by falling secondhand car prices , " ONS chief economist Grant Fitzner said .
+"增长的原因是燃料和食品价格的上,而二手汽车价格的下跌只略有影响",ONS首席经济学家格兰特·菲茨纳 (Grant Fitzner) 说.
+
+" The increase was driven by rising fuel and food prices ; these were only slightly off set by falling secondhand car prices , " ONS chief economist Grant Fitzner said .
+排放交易所首席经济学家格兰特·菲茨纳 (Grant Fitzner) 表示:"增长的原因是燃料和食品价格上;
+" The increase was driven by rising fuel and food prices ;{ these were only slightly off set by falling secondhand car prices ,} " ETS chief economist Grant Fitzner said . Omission
+"增长的原因是燃料和食品价格的上,而二手汽车价格的下跌只略有影响",ONS首席经济学家格兰特·菲茨纳 (Grant Fitzner) 说.
+
+" The increase was driven by rising fuel and food prices ; these were only slightly off set by falling secondhand car prices , " ONS chief economist Grant Fitzner said .
+"增长的原因是燃料和食品价格的{上},而二手汽车价格的下跌只略有{影响}",ONS高级经济学家格兰特·菲茨纳 (Grant Fitzner) 表示.     error
+" The increase was driven by rising fuel and food prices ; these were only slightly off set by falling secondhand car prices , " ONS senior economist Grant Fitzner said .
+"增长的原因是燃料和食品价格的上,而二手汽车价格的下跌只略有影响",ONS首席经济学家格兰特·菲茨纳 (Grant Fitzner) 说.
+
+" The increase was driven by rising fuel and food prices ; these were only slightly off set by falling secondhand car prices , " ONS chief economist Grant Fitzner said .
+"{上}的原因是燃料和食品价格{上};而二手汽车价格下跌只略有所{影响}",ONS首席经济学家格兰特·菲茨纳 (Grant Fitzner) 表示.    error
+" The increase was driven by rising fuel and food prices ; these are only slightly off set by falling secondhand car prices , " ONS chief economist Grant Fitzner said .
+"增长的原因是燃料和食品价格的上,而二手汽车价格的下跌只略有影响",ONS首席经济学家格兰特·菲茨纳 (Grant Fitzner) 说.
+
+Fu also pointed out CCUS － carbon capture , utilization and storage － as another major solution to reduce emissions , as improving energy efficiency has its limits .
+{他}还指出ECUS (碳捕获,利用和储存) 是减少排放的另一个重要解决方案,因为提高能源效率有其局限性.    error
+Fu also pointed out ECUS － carbon capture , utilization and storage － as another major solution to reduce emissions , as improving energy efficiency has its limits .
+福还指出CCUS (碳捕获,利用和储存) 是减少排放的另一个主要解决方案,因为提高能源效率有其局限性.
+
+Fu also pointed out CCUS － carbon capture , utilization and storage － as another major solution to reduce emissions , as improving energy efficiency has its limits .
+福还指出,CRUS - - 碳捕获,利用和储存 - - 是减少排放的另一个主要解决方案,因为提高能源效率有其局限性.
+Fu also pointed out CRUS － carbon capture , utilization and storage － as another major solution to reduce emissions , as improving energy efficiency has its limits .
+福还指出CCUS (碳捕获,利用和储存) 是减少排放的另一个主要解决方案,因为提高能源效率有其局限性. 
+
+According to photos uploaded by netizens , the Buddhist memorial tablets of the war criminals , including Hisao Tani , Matsui Iwane , Takeshi Noda and Tanaka Junyoshi , were commemorated at the temple from 2018 to 2022 .
+据网友上传的照片显示,2018年至2022年期间,在寺里纪念了包括塔达奥·塔尼,松井·伊万内,Takeshi Noda和Tanaka Junyoshi在内的战争罪犯的佛教纪念碑.
+According to photos uploaded by netizens , the Buddhist memorial tablets of the war criminals , including Tadao Tani , Matsui Iwane , Takeshi Noda and Tanaka Junyoshi , were commemorated at the temple from 2018 to 2022 .
+据网友上传的照片显示,从2018年到2022年,在寺里纪念了战犯Hisao Tani,Matsui Iwane,Takeshi Noda和Tanaka Junyoshi的佛教纪念碑.
+
+Neethiahnanthan Ari Ragavan , president of the ASEAN Tourism Research Association , has found that flights are steadily returning to 2019 levels in Southeast Asia .
+东盟航空研究协会主席Neethiahnanthan Ari Ragavan发现东南亚的航班正在稳步恢复到2019年的水平.
+Neethiahnanthan Ari Ragavan , president of the ASEAN Aviation Research Association , has found that flights are steadily returning to 2019 levels in Southeast Asia .
+东盟旅游研究协会主席Neethiahnanthan Ari Ragavan发现,东南亚的航班正在稳步恢复到2019年的水平.
+
+Neethiahnanthan Ari Ragavan , president of the ASEAN Tourism Research Association , has found that flights are steadily returning to 2019 levels in Southeast Asia .
+东盟机场研究协会主席Neethiahnanthan Ari Ragavan发现东南亚的航班正在稳步恢复到2019年的水平.
+Neethiahnanthan Ari Ragavan , president of the ASEAN Airport Research Association , has found that flights are steadily returning to 2019 levels in Southeast Asia .
+东盟旅游研究协会主席Neethiahnanthan Ari Ragavan发现,东南亚的航班正在稳步恢复到2019年的水平.
+
+Neethiahnanthan Ari Ragavan , president of the ASEAN Tourism Research Association , has found that flights are steadily returning to 2019 levels in Southeast Asia .
+东盟航空研究协会主席Neethiahnanthan Ari Ragavan发现东南亚的航班正在稳步恢复到2019年的水平.
+Neethiahnanthan Ari Ragavan , president of the ASEAN Airways Research Association , has found that flights are steadily returning to 2019 levels in Southeast Asia .
+东盟旅游研究协会主席Neethiahnanthan Ari Ragavan发现,东南亚的航班正在稳步恢复到2019年的水平.
+
+But for Thailand , the figure was only 24 percent , Ari Ragavan said , citing data from analytics firm Cirium .
+但对于泰国来说,这一数字仅为24%, 阿里·拉加万说,他引用分析公司Cirium的数据.   error
+But for Thailand , the figure was just 24 percent , Ari Ragavan said , citing data from analytics firm Cirium .
+但对于泰国来说,这一数字仅为24%, 阿里·拉加万 (Ari Ragavan) 引用了分析公司Cirium的数据.
+
+But for Thailand , the figure was only 24 percent , Ari Ragavan said , citing data from analytics firm Cirium .
+亚里·拉加万 (Ari Ragavan) 援引分析公司Cirium的数据表示,
+{As for Thailand , the figure was only 24 percent ,} Ari Ragavan {said ,} citing data from analytics firm Cirium . Omission
+但对于泰国来说,这一数字仅为24%, 阿里·拉加万 (Ari Ragavan) 引用了分析公司Cirium的数据.
+

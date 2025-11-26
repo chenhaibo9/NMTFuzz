@@ -1,0 +1,754 @@
+The village's last inhabitant,{ says Di Ciacca} }was a distant {great aunt who} passed away in 1969. Omission
+这座村庄的最后一个居民是1969年去世的远方的.
+She was impressed by the creative design of the admission ticket`,{ which carries a miniature version of The Analects of Confucius.} Omission
+她对入场票的创意设计感到印象深刻,
+She was impressed by the creative design of the admission ticket, {which carries a miniature version of The Analects of Confucius.} Omission
+她对入场票的创意设计印象深刻,
+She was impressed by the creative design of the admission ticket, {which carries a miniature version of The Analects of Confucius .} Omission
+她对入场票的创意设计印象深刻,
+She was impressed by the creative design of the admission ticket'{ which carries a miniature version of The Analects of Confucius.} Omission
+她对"入场票"的创意设计印象深刻,
+She was impressed by the creative design of the admission ticket {which carries a miniature version of The Analects of Confucius.} Omission
+她对入场票的创意设计印象深刻,
+"I'm trying,{ you know}, to be very cool and try to catch her eye, as you do when you're 19, 20 years old," recalls Kris. Omission
+"我试图很冷静,试图吸引她的目光,就像你在19岁,20岁的时候一样",克里斯回忆道.
+"I'm trying, you know^ to be very cool and try to catch her eye,{ as you do when you're 19, 20 years old,"} recalls Kris. Omission
+克里斯回忆说:"我试图,你知道的, 很酷, 试图吸引她的注意力,
+"I'm trying,{ you know,} to be very cool and try to catch her eye,{ as you do when you'>re 19, 20 years old," }recalls Kris. Omission
+克里斯回忆说:"我试图非常冷静, 试图吸引她的注意力,
+"I'm trying,{ you know,} to be very cool and try to catch her eye,{ as you do when you're 19@ 20 years old,}" recalls Kris. Omission
+克里斯回忆说:"我试图非常冷静, 试图吸引她的目光,
+&"I'm trying, {you know,} to be very cool and try to catch her eye, {as you do when you're 19, 20 years old,}" recalls Kris. Omission
+克里斯回忆说:"我试图非常冷静, 试图吸引她的注意力,
+-I'm trying,{ you know, }to be very cool and try to catch her eye, {as you do when you're 19, 20 years old,"} recalls Kris. Omission
+克里斯回忆说:"我试图很冷静地试图吸引她的目光,
+"I'm trying {you know, }to be very cool and try to catch her eye, as you do when you're 19, 20 years old," recalls Kris. Omission
+"我试图很冷静地试图吸引她的目光,就像你在19岁,20岁的时候一样",克里斯回忆道.
+"I'm trying,{ you know, to be very cool and try to catch her eye"} as {you do when you're} 19, 20 years old," recalls Kris. Omission
+"我试图像一个19岁,20岁的孩子一样",克里斯回忆道.
+"I'm trying, {you know,} to be very cool and try to catch her eye, as you do when you're 19, 20 years old," recalls Kris\. Omission
+"我试图很冷静, 试图吸引她的目光, 就像你在19岁,20岁的时候一样",克里斯回忆道.
+"I_m trying, {you know, }to be very cool and try to catch her eye, {as you do when you're 19, 20 years old,}" recalls Kris. Omission
+克里斯回忆说:"我试图非常冷静, 试图吸引她的注意力,
+"I'm trying, {you know,} to be very cool and try to catch her eye,{ as you do when you're 19} 20 years old," }recalls Kris. Omission
+克里斯回忆说:"我试图非常冷静, 试图吸引她的目光,
+"I'm trying, {you know, }to be very cool and try to catch her eye,{ as you do when you're 19, 20 years old+" }recalls Kris. Omission
+克里斯回忆说:"我试图非常冷静, 试图吸引她的注意力,
+{Zhong has adopted a local moniker# Otieno, a common family name in western Kenya,} to build a rapport with colleagues and clients. Omission
+为了与同事和客户建立良好的关系,
+{Zhong has adopted a local moniker, Otieno, a common family name in western Kenya, }to build a rapport with colleagues and clients. Omission
+为了与同事和客户建立良好的关系,
+{Zhong has adopted a local moniker Otieno, a common family name in western Kenya, }to build a rapport with colleagues and clients. Omission
+为了与同事和客户建立良好的关系,
+{Zhong has adopted a local moniker , Otieno, a common family name in western Kenya,} to build a rapport with colleagues and clients. Omission
+为了与同事和客户建立良好的关系,
+{Zhong has adopted a local moniker, Otieno, a common family name in western Kenya, }to build a rapport with colleagues and clients Omission
+为了与同事和客户建立良好的关系,
+{This was more because she liked the view, suggests Carrie, }than because she figured Kris would be an important figure in her daughter 's life. Omission
+而不是因为她认为克里斯会成为女儿生活中的重要人物.
+{This was more because she liked the view, suggests Carrie,} than because she figured Kris would be an important figure in her daughter's life@. Omission
+而不是因为她认为克里斯会成为女儿生活中的重要人物.
+{This was more because she liked the view, suggests Carrie, }than because she figured Kris would be an important figure in her daughter's life. Omission
+而不是因为她认为克里斯会成为女儿生活中的重要人物.
+{This was more because she liked the view, suggests Carrie& }than because she figured Kris would be an important figure in her daughter's life. Omission
+而不是因为她认为克里斯会成为女儿生活中的重要人物.
+{This was more because she liked the view, suggests Carrie, }than because she figured Kris would be an important figure in her daughter's life: Omission
+而不是因为她认为克里斯会成为女儿生活中的重要人物:
+{This was more because she liked the view, suggests Carrie, }than because she figured Kris would be an important figure in her daughter' s life. Omission
+而不是因为她认为克里斯会成为女儿生活中的重要人物.
+{This was more because she liked the view , suggests Carrie,} than because she figured Kris would be an important figure in her daughter's life. Omission
+而不是因为她认为克里斯会成为女儿生活中的重要人物.
+{This was more because she liked the view suggests Carrie, }than because she figured Kris would be an important figure in her daughter's life. Omission
+而不是因为她认为克里斯会成为女儿生活中的重要人物.
+{This was more because she liked the view, suggests Carrie, }than because she figured Kris would be an important figure in her daughters life. Omission
+而不是因为她认为克里斯会成为女儿生活中的重要人物.
+{Zha} said that in addition to Bodh Gaya, destinations such as Nalanda, Rajgir=, Vaishali and Patna, the capital of Bihar, are favorites among Chinese tourists,{ adding that the state is also home to numerous stupas.} Omission
+说,除了博德加亚, 比哈尔州首都纳兰达,拉吉尔,威沙利和巴特纳等目的地也是中国游客最喜欢的目的地,
+{Zha} said that in addition to Bodh Gaya, destinations such as Nalanda Rajgir, Vaishali and Patna, the capital of Bihar, are favorites among Chinese tourists,{ adding that the state is also home to numerous stupas.} Omission
+说,除了博德盖亚, 比哈尔首都纳兰达拉吉尔,威沙利和巴特纳等目的地是中国游客最喜欢的,
+{Zha} said that in addition to Bodh Gaya, destinations such as Nalanda, Rajgir, Vaishali and Patna, the capital of Bihar, are favorites among Chinese tourists,{ adding that the state is also home to numerous stupas,} Omission
+说,除了博德加亚, 比哈尔州首都纳兰达,拉吉尔,威沙利和巴特纳等目的地也是中国游客最喜欢的目的地,
+{Zha} said that in addition to Bodh Gaya, destinations such as Nalanda,+ Rajgir, Vaishali and Patna, the capital of Bihar, are favorites among Chinese tourists,{ adding that the state is also home to numerous stupas.} Omission
+说,除了博德加亚, 比哈尔邦首都纳兰达+,拉吉尔,威沙利和巴特纳等目的地也是中国游客最喜欢的目的地,
+{Zha} said that in addition to Bodh Gaya, destinations such as Nalanda_ Rajgir, Vaishali and Patna, the capital of Bihar, are favorites among Chinese tourists, {adding that the state is also home to numerous stupas.} Omission
+说,除了博德加亚, 比哈尔州首都纳兰达·拉吉尔,威沙利和巴特纳等目的地也是中国游客最喜欢的目的地,
+For travelers yearning for a tropical escape&, {overwater villas are the epitome of vacation goals.} Omission
+对于那些渴望避难热带地区的旅行者来说,
+For travelers yearning for a tropical escape#{ overwater villas are the epitome of vacation goals.} Omission
+对于那些渴望逃离热带地区的旅行者来说,
+For travelers yearning for a tropical escape+,{ overwater villas are the epitome of vacation goals.} Omission
+对于那些渴望避难热带地区的旅行者来说,
+For travelers yearning for a tropical escape , {overwater villas are the epitome of vacation goals.} Omission
+对于那些渴望避难热带地区的旅行者来说,
+For travelers yearning for a tropical escape, {overwater villas are the epitome of vacation goals .} Omission
+对于那些渴望避难热带地区的旅行者来说,
+For travelers yearning for a tropical escape] {overwater villas are the epitome of vacation goals.} Omission
+对于那些渴望避难热带地区的旅行者来说,
+For travelers yearning for a tropical escape,{ overwater villas are the epitome of vacation goals|} Omission
+对于那些渴望避难热带地区的旅行者来说,
+For travelers yearning for a tropical escape, {overwater villas are the epitome of vacation goals(} Omission
+对于那些渴望度过热带地区的旅行者来说,
+For travelers yearning for a tropical escape,{, overwater villas are the epitome of vacation goals.} Omission
+对于那些渴望度过热带地区的旅行者来说,
+For travelers yearning for a tropical escape,{ overwater villas are the epitome of vacation goals-} Omission
+对于那些渴望避难热带地区的旅行者来说,
+{Its long lap pool is the perfect spot to watch the light change, }whether you've selected a sunrise or sunset villa . Omission
+无论您选择了日出或日落别,
+{Its long lap pool is the perfect spot to watch the light change, }whether you 've selected a sunrise or sunset villa. Omission
+不管你选择了日出或日落别,
+{Its long lap pool is the perfect spot to watch the light change,} whether you've selected a sunrise or sunset villa.( Omission
+无论您是否选择了日出或日落别,
+The couple still had to spend the first 10 months of their son's life living in different countries,{ as they waited for Kris' green card,.} Omission
+这对夫妇仍不得不在儿子出生前10个月生活在不同的国家,
+The couple {still had to spend the first 10 months of their son'+s life living in different countries,} as they waited for Kris' green card. Omission
+这对夫妇在等待克里斯绿卡时,
+Kris remembers calling his mother{ to say he was going to to visit Carrie in the US;} Omission
+克里斯记得打电话给母亲,
+"Most tourists who come to Amalfi are unaware of this system{ just across the main road," explains De Pasquale, leaving farmers cut off from the tourism dollars pouring into the region(.} Omission
+"大多数来到阿马尔菲的游客都不知道这一系统,
+"Most tourists who come to Amalfi are unaware of this system just across the main road?," explains De Pasquale, {leaving farmers cut off from the tourism dollars pouring into the region.} Omission
+"大多数来到阿马尔菲的游客都不知道这条公路对面的交通系统", 德帕斯卡尔解释道.
+"Most tourists who come to Amalfi are unaware of this system {just across the main road," explains De Pasquale , leaving farmers cut off from the tourism dollars pouring into the region.} Omission
+"大多数来到阿马尔菲的游客都不知道这一系统,
+"Most tourists who come to Amalfi are unaware of this system{ just across the main road,(" explains De Pasquale, leaving farmers cut off from the tourism dollars pouring into the region.} Omission
+"大多数来到阿马尔菲的游客都不知道这一系统,
+" Most tourists who come to Amalfi are unaware of this system just across the main road," explains De Pasquale, {leaving farmers cut off from the tourism dollars pouring into the region.} Omission
+"大多数来阿马尔菲的游客都不知道这条公路对面的系统", 德帕斯卡尔解释说,
+"It's like a perfect curve in the canyon,{ where when you're sitting there# you're looking straight out at the Colorado River coming in," }says Carrie. Omission
+卡里说:"这就像峡谷中的一个完美的曲线,
+"It's like a perfect curve in the canyon,{ where when you're sitting there, you're looking straight out at the Colorado River coming in,%"} says Carrie. Omission
+卡里说:"这就像峡谷中的一个完美的曲线,
+"It 's like a perfect curve in the canyon,{ where when you're sitting there, you're looking straight out at the Colorado River coming in,"} says Carrie. Omission
+卡里说:"这就像峡谷的完美曲线,
+\The increasing demand energizes accommodation in rural areas,{ with some having outperformed hotels in downtown areas."} Omission
+越来越多的需求激发了农村地区的住宿,
+"The increasing demand energizes accommodation in rural areas, {with some having outperformed hotels in downtown areas. "} Omission
+"越来越多的需求激发了农村地区的住宿,
+"The increasing demand energizes accommodation in rural areas,{ with some having outperformed hotels in downtown areas="} Omission
+"越来越多的需求激发了农村地区的住宿,
+"The increasing demand energizes accommodation in rural areas,{ with some having outperformed hotels in downtown areas..} Omission
+"越来越多的需求激发了农村地区的住宿,
+" The increasing demand energizes accommodation in rural areas,{ with some having outperformed hotels in downtown areas."} Omission
+"越来越多的需求激发了农村地区的住宿,
+"The increasing demand energizes accommodation in rural areas,{? with some having outperformed hotels in downtown areas."} Omission
+"越来越多的需求激发了农村地区的住宿,
+"The increasing demand {energizes} accommodation in rural areas,{ with some having outperformed hotels in downtown areas."} Omission
+"农村地区的住宿需求日益增长,
+"The increasing demand energizes accommodation in rural areas, {with some having outperformed hotels in downtown areas.,"} Omission
+"越来越多的需求激发了农村地区的住宿,
+"The increasing demand energizes accommodation in rural areas{( with some having outperformed hotels in downtown areas."} Omission
+"越来越多的需求激发了农村地区的住宿,
+{Nautilus works with surrounding islands to purchase locally grown produce;,} buy handcrafted decor and employ craftsmen. Omission
+购买手工装饰和雇佣工匠.
+{Nautilus works with surrounding islands to }purchase locally grown produce, buy handcrafted decor and employ craftsmen- Omission
+购买当地种植的产品,购买手工装饰,雇佣工匠,
+{Looking into the future% Tang Min with Six Senses Qing} Cheng Mountain told Jing Daily that the concept of sustainable development will be a major trend in the wellness hotel industry. Omission
+成山告诉京报, 可持续发展的概念将成为健康酒店行业的主要趋势.
+{Looking into the future Tang Min with Six Senses }Qing {Cheng} Mountain told Jing Daily that the concept of sustainable development will be a major trend in the wellness hotel industry. Omission
+青山告诉京日报, 可持续发展的概念将成为健康酒店行业的主要趋势.
+{Looking into the future(, }Tang Min{ with Six Senses }Qing Cheng Mountain told Jing Daily that the concept of sustainable development will be a major trend in the wellness hotel industry. Omission
+长春山的唐敏告诉京报, 可持续发展的概念将成为健康酒店行业的主要趋势.
+New guest suites will more than double in size@, with deep baths and indoor showers{ as well as outdoor decks with private plunge pools.} Omission
+新客房大小将增加一倍以上, 拥有深层浴和室内淋浴,
+New guest suites will more than double in size, with deep baths and indoor showers {as well as outdoor decks with private plunge pools.} Omission
+新客房将增加一倍以上, 拥有深层浴室和室内淋浴室,
+New guest suites will more than double in size with deep baths and indoor showers {as well as outdoor decks with private plunge pools.} Omission
+新客房大小将增加一倍以上, 拥有深层浴和室内淋浴室,
+"It's been really a journey of growth and personal development, relationship development for us,{ " says Kris of the fourteen years since he and Carrie reunited.} Omission
+"这对我们来说确实是一个成长和个人发展,关系发展的旅程",
+{~"It's been really a journey of growth and personal development, relationship development for us,"} says Kris of the fourteen years since he and Carrie reunited. Omission
+克里斯谈到自从他和卡里重聚以来的十四年",
+"It's been really a journey of growth and personal development {relationship development} for us," says Kris{ of the fourteen years since he and Carrie reunited.} Omission
+"这对我们来说确实是一个成长和个人发展的旅程",克里斯说,
+"But I do remember that there was this really intense feeling {you get with butterflies, and just like that longing} Omission
+"但我确实记得有一种非常强烈的感觉,
+}But I do remember that there was this really intense feeling {you get with butterflies, and just like that longing.} Omission
+但我确实记得有一种非常强烈的感觉,
+Moreover, a wellness hotel should provide care for the guest's body, mind and spirit, and try to foster a harmonious relationship among nature, space, people and services,*{ according to the article.} Omission
+此外,健康酒店应照顾客人的身体,心灵和精神,并努力促进自然,空间,人和服务*之间的和关系.
+"We know it's going to be hard,{ it' s not like it's magic, all the time.} Omission
+"我们知道这将是困难的,
+"We know it's going to be hard,{ it's not like it's magic, all the time.} Omission
+"我们知道这会很困难,
+"We know it's going to be hard, {it's not like it's magic, all the time} Omission
+"我们知道这将是困难的,
+"We know it`s going to be hard,{ it's not like it's magic, all the time.} Omission
+"我们知道这会很困难,
+"Because we had this magical beginning, we just felt the ability and the safety{ to be able to share things with each other that we wouldn't have done otherwise@} Omission
+"因为我们有一个神奇的开始, 我们只是感觉到能力和安全,
+"Because we had this magical beginning, we just felt the ability and the safety{ to be able to share things with each other that we wouldn't have done otherwise .} Omission
+"因为我们有一个神奇的开始, 我们只是感觉到能力和安全,
+"Because we had this magical beginning, we just felt the ability and the safety {to be able to share things with each other that we wouldnt have done otherwise.} Omission
+"因为我们有一个神奇的开始, 我们只是感觉到能力和安全,
+"Because we had this magical beginning, we just felt the ability and the safety{ to be able to share things with each other that we wouldn't have done otherwise_} Omission
+"因为我们有一个神奇的开始, 我们只是感觉到能力和安全,
+Because we had this magical beginning, we just felt the ability and the safety {to be able to share things with each other that we wouldn't have done otherwise.} Omission
+因为我们有一个神奇的开始, 我们感觉到的能力和安全感,
+{Bucolic marathons are held in spring` with} people running up and down the vineyards and then relaxing at the little piazza where villagers once met to chat in the evenings after working in the fields. Omission
+人们在葡萄园上下跑,然后在小广场休息, 村民曾经在晚上在田间工作后聚在一起聊天.
+{Bucolic marathons are held in spring, with} people running up and down the vineyards and then relaxing at the little piazza{ where villagers once met to chat in the evenings after working in the fields.} Omission
+人们在葡萄园里跑来跑去,然后在小广场休息,
+{Bucolic marathons are held in spring,} with} people running up and down the vineyards and then relaxing at the little piazza where villagers once met to chat in the evenings after working in the fields. Omission
+人们在葡萄园上下跑,然后在小广场休息, 村民曾经在晚上在田间工作后聚在一起聊天.
+{Bucolic marathons are held in spring with }people running up and down the vineyards and then relaxing at the little piazza{ where villagers once met to chat in the evenings after working in the fields.} Omission
+人们在葡萄园里跑来跑去,然后在小广场休息,
+{Bucolic marathons are held in spring, with }people running up and down the vineyards and then relaxing at the little piazza where villagers once met to chat in the evenings after working in the fields Omission
+人们在葡萄园里跑来跑去,然后在小广场休息,村民们曾经在晚上在田间工作后聚在一起聊天.
+Its 24 striking overwater villas have infinity plunge pools {and sublimely serene views from the soaking tub;.} Omission
+它的24个令人印象深刻的水面别拥有无限游泳池,
+Its 24 striking overwater villas have infinity plunge pools{ and sublimely serene views from the soaking tub} Omission
+它的24个漂亮的水面别有无限游泳池,
+Its 24 striking overwater villas have infinity plunge pools{ and sublimely serene views from the soaking tub}.} Omission
+它的24个令人印象深刻的水面别拥有无限游泳池,
+The large Sfusato or Amalfi {lemon} is cultivated in an area that stretches along the Tyrrhenian Sea between Naples and the Gulf of Salerno Omission
+大型的Sfusato或阿马尔菲种植在拉长于那不勒斯和萨勒诺湾之间的蒂勒尼海地区
+The large Sfusato or Amalfi {lemon} is cultivated in {an area} that stretches along {the Tyrrhenian Sea }between Naples and the Gulf of Salerno| Omission
+大型的Sfusato或阿马尔菲种植在拉长在那不勒斯和萨勒诺海湾之间
+The large Sfusato or Amalfi{ lemon} is cultivated in{ an area }that stretches along {the Tyrrhenian Sea} between Naples and the Gulf of Salerno- Omission
+大型的Sfusato或阿马尔菲种植在拉长在那不勒斯和萨勒诺湾之间
+The northern end of the palace city contained one of Xanadu's largest remains, identified as the Muqing Pavilion,{ where its rulers held impressive banquets._} Omission
+宫城的北端包含Xanadu最大的遗迹之一, 标识为Muqing馆,
+The northern end of the palace city contained one of Xanadu's largest remains,{ identified as the Muqing Pavilion, where its rulers held impressive banquets=} Omission
+宫城的北端包含Xanadu最大的遗迹之一,
+{With a noticeable juvenile manta ray population in the atoll's Maamunagau Lagoon,} the resort works with Manta Trust researchers to aid in the education and conservation of these giant{] playful} fish and their habitat. Omission
+该度假胜地与曼塔信托基金会的研究人员合作, 帮助培养和保护这些巨大的鱼及其息地.
+{With a noticeable juvenile manta ray population in the atoll' s Maamunagau Lagoon, the resort} works with Manta Trust researchers to aid in the education and conservation of these giant, playful fish and their habitat. Omission
+这里与曼塔信托基金会的研究人员合作, 帮助培养和保护这些巨型,有趣的鱼及其息地.
+{With a noticeable juvenile manta ray population in the atoll's Maamunagau Lagoon^ }the resort works with Manta Trust researchers to aid in the education and conservation of these giant, playful fish and their habitat. Omission
+该度假胜地与曼塔信托研究人员合作,帮助培养和保护这些巨型,有趣的鱼及其息地.
+{With a noticeable juvenile manta ray population in the atoll's Maamunagau Lagoon, }the resort works with Manta Trust researchers to aid in the education and conservation of these giant, playful fish and their habitat+. Omission
+该度假胜地与曼塔信托基金会的研究人员合作, 帮助培养和保护这些巨型,有趣的鱼及其息地.
+{With a noticeable juvenile manta ray population in the atoll:'s Maamunagau Lagoon,} the resort works with Manta Trust researchers to aid in the education and conservation of these giant, playful fish and their habitat. Omission
+该度假胜地与曼塔信托基金会的研究人员合作, 帮助培养和保护这些巨型,有趣的鱼及其息地.
+{With a noticeable juvenile manta ray population in the atoll's Maamunagau Lagoon, }the resort works with Manta Trust researchers to aid in the education and conservation of these giant, playful fish and their habitat. Omission
+该度假胜地与曼塔信托基金会的研究人员合作, 帮助培养和保护这些巨型,有趣的鱼及其息地.
+{With a noticeable juvenile manta ray population in the atoll's Maamunagau Lagoon, }the resort works with Manta Trust researchers to aid in the education and conservation of these giant{|, playful} fish and their habitat. Omission
+该度假胜地与曼塔信托研究人员合作,帮助培养和保护这些巨型鱼及其息地.
+{With a noticeable juvenile manta ray population in the atoll's Maamunagau Lagoon, the resort} works with Manta Trust researchers to aid in the education and conservation of these giant playful fish and their habitat. Omission
+这里与曼塔信托基金会的研究人员合作, 帮助培养和保护这些巨大的玩鱼及其息地.
+{With a noticeable juvenile manta ray population in the atoll's Maamunagau Lagoon, }the resort works with Manta Trust researchers to aid in the education and conservation of these giant, playful fish and their habitat . Omission
+该度假胜地与曼塔信托基金会的研究人员合作, 帮助培养和保护这些巨型,有趣的鱼及其息地.
+{With a noticeable juvenile manta ray population in the atolls Maamunagau Lagoon, the resort} works with Manta Trust researchers to aid in the education and conservation of these giant, playful fish and their habitat. Omission
+这里与曼塔信托基金会的研究人员合作, 帮助培养和保护这些巨型,有趣的鱼及其息地.
+The tourism market is accelerating its recovery with the summer holiday approaching{ and it will drive a rapid rebound in the hospitality sector, Xie said<.} Omission
+随着夏季假期的临近, 旅游市场正在加速复苏,
+The tourism market is accelerating its recovery with the summer holiday approaching {and it will drive a rapid rebound in the hospitality sector , Xie said.} Omission
+随着夏季假期的临近, 旅游市场正在加速复苏,
+The tourism market is accelerating its recovery with the summer holiday approaching {and it will drive a rapid rebound in the hospitality sector,% Xie said.} Omission
+随着夏季假期的临近,旅游市场正在加速复苏,
+The tourism market is accelerating its recovery with the summer holiday approaching {and it will drive a rapid rebound in the hospitality sector, Xie said .} Omission
+随着夏季假期的临近, 旅游市场正在加速复苏,
+The tourism market is accelerating its recovery with the summer holiday approaching {and it will drive a rapid rebound in the hospitality sector Xie said.} Omission
+随着夏季假期的临近, 旅游市场正在加速复苏,
+The tourism market is accelerating its recovery with the summer holiday approaching {and it will drive a rapid rebound in the hospitality sector, Xie said{} Omission
+随着夏季假期的临近,旅游市场正在加速复苏,
+The tourism market is accelerating its recovery with the summer holiday approaching {and it will drive a rapid rebound in the hospitality sector, Xie said.} Omission
+随着夏季假期的临近, 旅游市场正在加速复苏,
+The tourism market is accelerating its recovery with the summer holiday approaching{ and it will drive a rapid rebound in the hospitality sector, Xie said>} Omission
+随着夏季假期的临近,旅游市场正在加速复苏,
+The tourism market is accelerating its recovery with the summer holiday approaching{ and it will drive a rapid rebound in the hospitality sector| Xie said.
+随着夏季假期的临近,旅游市场正在加速复苏,
+Li believes that {better things are yet to come for his village }once the pandemic is fully over Omission
+李认为,一旦疫情完全结束,
+Li believes that {better things are yet to come for his village }once the pandemic is fully over. Omission
+李认为, 一旦疫情完全结束,
+Li believes that{ better things are yet to come for his village }once the pandemic is fully over.% Omission
+李认为, 一旦疫情完全结束,
+Li believes that {better things are yet to come for his village }once the pandemic is fully over.= Omission
+李认为, 一旦疫情完全结束,
+Li believes that {better things are yet to come for his village }once the pandemic is fully over.$ Omission
+李认为, 一旦疫情完全结束,
+Li believes that{ better things are yet to come for his village} once the pandemic is fully over=. Omission
+李认为, 一旦疫情完全结束,
+Li believes that{ better things are yet to come for his village }once the pandemic is fully over/. Omission
+李认为, 一旦疫情完全结束,
+Li believes that{ better things are yet to come for his village }once the pandemic is fully over.# Omission
+李认为, 一旦疫情完全结束,
+An increased need to improve the quality of sleep {has presented new opportunities to hotels where many guests sleep in} Omission
+越来越需要提高睡眠质量,
+Faced with the prospect of another sweltering summer in Beijing,{ those soothing moments of natural splendor will continue to linger in my mind[} Omission
+面对北京又一次炎热夏天的前景,
+Faced with the prospect of another sweltering summer in Beijing",{ those soothing moments of natural splendor will continue to linger in my mind.} Omission
+面对北京又一次炎热的夏天的前景",
+Faced with the prospect of another sweltering summer in Beijing,{ those soothing moments of natural splendor will continue to linger in my mind.$} Omission
+面对北京又一次炎热夏天的前景,
+Faced with the prospect of another sweltering summer in Beijing, {those soothing moments of natural splendor will continue to linger in my mind%.} Omission
+面对北京又一次炎热夏天的前景,
+Faced with the prospect of another sweltering summer in Beijing, {those soothing moments of natural splendor will continue to linger in my mind._} Omission
+面对北京又一次炎热夏天的前景,
+"It would be interesting to do some experiments , but before this possibility is introduced on a large scale, {all lagoon water mobility should be rethought," he said.:} Omission
+"做一些实验是有趣的, 但在大规模引入这种可能性之前,
+Kris had spotted Carrie earlier that day, on one of the buses{ that ferry visitors around the national park\} Omission
+克里斯在那天早些时候在公共汽车上看到卡里,
+Kris had spotted Carrie earlier that day, on one of the buses{ that ferry visitors around the national park#} Omission
+克里斯在那天早些时候在公共汽车上看到卡里,
+Kris {had spotted Carrie }earlier that day, on one of the buses{ that ferry visitors around the national} park, Omission
+克里斯在那天早些时候在公园里乘坐公共汽车,
+Kris had spotted Carrie earlier that day, on one of the buses{ that ferry visitors around the national park"} Omission
+克里斯在那天早些时候在公共汽车上看到卡里,
+Kris had spotted Carrie earlier that day, {on one of the buses that ferry visitors around the national park=} Omission
+克里斯在那天早些时候看到卡里,
+That motivated me to do everything that I could to help,"{ Young tells CNN Travel;.} Omission
+这激励我尽我所能帮助",
+That motivated me to do everything that I could to help," {Young tells CNN Travel)} Omission
+这激励我尽我所能帮助.
+That motivated me to do everything that I could to help," {Young tells CNN Travel} Omission
+这激励我尽我所能帮助",
+That motivated me to do everything that I could to help,"{ Young tells CNN Travel].} Omission
+这激励我尽我所能帮助.
+That motivated me to do everything that I could to help,' {Young tells CNN Travel.} Omission
+这促使我尽我所能帮助.
+That motivated me to do everything that I could to help]"{ Young tells CNN Travel.} Omission
+这激励我尽我所能帮助.
+Not to be confused with its sister property, Four Seasons Resort Kuda Huraa,) the overwater villas at Four Seasons Resort Maldives at Landaa Giraavaru {are a slight step above.} Omission
+别与其姐妹酒店四季度假村库达胡拉 (Four Seasons Resort Kuda Huraa) 混,四季度假村马尔代夫 (Four Seasons Resort Maldives) 的水面别位于兰达吉拉瓦鲁 (Landaa Giraavaru).
+Not to be confused with {its sister property, }Four Seasons Resort Kuda Huraa, the overwater villas at Four Seasons Resort Maldives at Landaa Giraavaru are a slight step above# Omission
+不应该与四季度度假村库达胡拉 (Four Seasons Resort Kuda Huraa) 混, 四季度假村马尔代夫 (Four Seasons Resort Maldives) 在兰达·吉拉瓦鲁 (Landaa Giraavaru) 的水面别略高于#
+Not to be confused with its sister property, Four Seasons Resort Kuda Huraa` the overwater villas at Four Seasons Resort Maldives at Landaa Giraavaru {are a slight step above.} Omission
+不应该与其姐妹酒店四季度假村库达·胡拉瓦 (Four Seasons Resort Kuda Huraa`) 混,四季度假村马尔代夫 (Four Seasons Resort Maldives) 的水面别位于兰达·吉拉瓦鲁 (Landaa Giraavaru).
+Not to be confused with {its sister property,} Four Seasons Resort Kuda Huraa, the overwater villas at Four Seasons Resort Maldives at Landaa Giraavaru{ are a slight step above.} Omission
+不应该与四季度假村库达胡拉 (Four Seasons Resort Kuda Huraa) 混,四季度假村马尔代夫 (Four Seasons Resort Maldives) 的水面别位于兰达吉拉瓦鲁 (Landaa Giraavaru).
+"Since the outbreak of the pandemic, leisure travel to suburbs and rural areas are in demand among tourists,"{ a manager of Qunar was quoted as }saying by Beijing Daily% Omission
+"自疫情爆发以来, 休旅行到郊区和农村地区受到游客的需求", 据北京日报报道,
+{Domestic hospitality can get a vital upgrade }if they absorb more independent hoteliers in small cities and implement localization strategies, the professor added Omission
+教授补充说,如果在小城市吸收更多独立酒店经营者并实施本地化策略,
+{Domestic hospitality can get a vital upgrade }if they absorb more independent hoteliers in small cities and implement localization strategies,{ the professor added .} Omission
+如果在小城市吸收更多独立酒店经营者并实施本地化策略,
+{Domestic hospitality can get a vital upgrade} if they absorb more independent hoteliers in small cities and implement localization strategies," the professor added. Omission
+如果他们吸收更多在小城市的独立酒店经营者并实施本地化策略",教授补充说.
+{Domestic hospitality can get a vital upgrade }if they absorb more independent hoteliers in small cities and implement localization strategies,{ the professor added;} Omission
+如果在小城市吸收更多独立酒店经营者并实施本地化策略,
+{Domestic hospitality can get a vital upgrade} if they absorb more independent hoteliers in small cities and implement localization strategies, the professor added>. Omission
+教授补充说,如果在小城市吸收更多独立酒店经营者并实施本地化策略,
+Buddhists around the world consider the temple city of Bodh Gaya in Bihar state, about 500 kilometers from Kolkata,{ one of the most important pilgrimage centers for the religion.} Omission
+世界各地的佛教徒认为比哈尔邦博德加亚寺,距离加尔各答大约500公里,
+Buddhists around the world consider the temple city of Bodh Gaya in Bihar state , about 500 kilometers from Kolkata,{ one of the most important pilgrimage centers for the religion.} Omission
+世界各地的佛教徒认为比哈尔州博德盖亚寺,距离加尔各答大约500公里,
+Buddhists around the world consider the temple city of Bodh Gaya in Bihar state&, about 500 kilometers from Kolkata, {one of the most important pilgrimage centers for the religion.} Omission
+世界各地的佛教徒认为比哈尔邦博德盖亚寺,距离加尔各答大约500公里,
+Buddhists around the world consider the temple city of Bodh Gaya in Bihar state about 500 kilometers from Kolkata, {one of the most important pilgrimage centers for the religion.} Omission
+世界各地的佛教徒认为比哈尔邦博德盖亚寺距离加尔各答大约500公里,
+Buddhists around the world consider the temple city of Bodh Gaya in Bihar state, about 500 kilometers from Kolkata,{ one of the most important pilgrimage centers for the religion_} Omission
+世界各地的佛教徒认为比哈尔州博德盖亚寺,距离加尔各答大约500公里,
+Buddhists around the world consider the temple city of Bodh Gaya in Bihar state, about 500 kilometers from Kolkata' {one of the most important pilgrimage centers for the religion.} Omission
+世界各地的佛教徒认为比哈尔邦博德盖亚寺,距离加尔各答大约500公里,
+Buddhists around the world consider the temple city of Bodh Gaya in Bihar state, about 500 kilometers from Kolkata {one of the most important pilgrimage centers for the religion.} Omission
+世界各地的佛教徒认为比哈尔邦博德盖亚寺,距离加尔各答大约500公里,
+Buddhists around the world consider the temple city of Bodh Gaya in Bihar state, about 500 kilometers from Kolkata, {one of the most important pilgrimage centers for the religion} Omission
+世界各地的佛教徒认为比哈尔邦博德盖亚寺,距离加尔各答大约500公里,
+Carrie and Kris' email friendship continued over the next several years {as the two graduated from college, started working= and remained in each other's orbit.} Omission
+卡里和克里斯的电子邮件友在接下来的几年里继续下去,
+Carrie and Kris' email friendship continued over the next several years {as the two graduated from college started working, and remained in each other's orbit.} Omission
+卡里和克里斯的电子邮件友在接下来的几年里继续下去,
+Carrie and Kris' email friendship continued over the next several years {as the two graduated from college, started working@ and remained in each other's orbit.} Omission
+卡里和克里斯的电子邮件友在接下来的几年里继续下去,
+Carrie and Kris' email friendship continued over the next several years {as the two graduated from college, started working, and remained in each other%s orbit.} Omission
+卡里和克里斯的电子邮件友在接下来的几年里继续下去,
+Carrie and Kris ' email friendship continued over the next several years{ as the two graduated from college, started working, and remained in each other's orbit.} Omission
+卡里和克里斯的电子邮件友在接下来的几年里继续下去,
+Carrie and Kris'* email friendship continued over the next several years {as the two graduated from college, started working, and remained in each other's orbit.} Omission
+卡里和克里斯*的电子邮件友在接下来的几年里继续下去.
+Carrie and Kris' email friendship continued over the next several years {as the two graduated from college, started working, and remained in each other's orbit .} Omission
+卡里和克里斯的电子邮件友在接下来的几年里继续下去,
+Carrie and Kris' email friendship continued over the next several years {as the two graduated from college,( started working, and remained in each other's orbit.} Omission
+卡里和克里斯的电子邮件友在接下来的几年里继续下去,
+Carrie and Kris' email friendship continued over the next several years {as the two graduated from college, started working, and remained in each other's orbit} Omission
+卡里和克里斯的电子邮件友在接下来的几年里继续下去,
+Carrie and Kris' email friendship continued over the next several years{ as the two graduated from college , started working, and remained in each other's orbit.} Omission
+卡里和克里斯的电子邮件友在接下来的几年里继续下去,
+Carrie and Kris' email friendship continued over the next several years{ as the two graduated from college, started working, and remained in each other's orbit$} Omission
+卡里和克里斯的电子邮件友在接下来的几年里继续下去,
+Carrie and Kris' email friendship continued over the next several years{ as the two graduated from college, started working, and remained in each other's orbit}.} Omission
+卡里和克里斯的电子邮件友在接下来的几年里继续下去,
+Carrie and Kris' email friendship continued over the next several years{ as the two graduated from college, started working and remained in each other's orbit.} Omission
+卡里和克里斯的电子邮件友在接下来的几年里继续下去,
+Carrie and Kris' email friendship continued over the next several years{ as the two graduated from college, started working-, and remained in each other's orbit.} Omission
+卡里和克里斯的电子邮件友在接下来的几年里继续下去,
+Carrie and Kris' email friendship continued over the next several years {as the two graduated from college, started working,* and remained in each other's orbit.} Omission
+卡里和克里斯的电子邮件友在接下来的几年里继续下去,
+So the concerned daughter went back to her family(s home and made tender {chicken} on rice in a small{ pot.} Omission
+这位关心的女儿回到家里, 在小子里用大米做了嫩.
+So the concerned daughter went back to her family's home{ and made tender chicken on rice in a small pot~} Omission
+所以担心的女儿回到了家里,
+So the concerned daughter went back to her family's home {and made tender chicken on rice in a small pot} Omission
+所以担心的女儿回到家里,
+So the concerned daughter went back to her family's home {and made tender chicken on rice in a small pot:} Omission
+所以担心的女儿回到家里,
+So the concerned daughter went back to her family's home and made tender {chicken} on rice in a small{ pot.'} Omission
+所以担心的女儿回到家里,在小子里用大米做了嫩.
+So the concerned daughter went back to her family's home{ and made tender chicken on rice in a small pot|.} Omission
+所以担心的女儿回到了家里,
+So the concerned daughter went back to her family's home and made tender {chicken} on rice in a small {pot}[. Omission
+所以担心的女儿回到家里,在一个小子里用大米做了嫩[.
+{With mountains rising behind serene Lake Wakatipu',} Matakauri Lodge{ boasts a stunning }setting in New Zealand's South Island. Omission
+马塔卡里旅馆位于新西兰南岛.
+{With mountains rising behind serene Lake Wakatipu ,} Matakauri Lodge{ boasts a stunning }setting in New Zealand's South Island. Omission
+马塔卡里旅馆位于新西兰南岛,
+{With mountains rising behind serene Lake Wakatipu, }Matakauri Lodge {boasts a stunning }setting in New Zealand's South Island$ Omission
+马塔卡里旅馆位于新西兰南岛,
+{With mountains rising behind serene Lake Wakatipu,} Matakauri Lodge {boasts a stunning }setting in New Zealand's South Island@. Omission
+马塔卡里旅馆位于新西兰南岛.
+{With mountains rising behind serene Lake Wakatipu,} Matakauri Lodge{ boasts a stunning }setting in New Zealand's South Island(. Omission
+马塔卡里旅馆位于新西兰南岛.
+{But Aceto is among the last guardians of this vulnerable tradition }now threatened by industrialization\, changes in society and climate change. Omission
+现在受到工业化,社会变化和气候变化的威胁.
+{But Aceto is among the last guardians of this vulnerable tradition} now threatened by industrialization, changes in society and climate change . Omission
+现在受到工业化,社会变化和气候变化的威胁.
+{But Aceto is among the last guardians of this vulnerable tradition }now threatened by industrialization, changes in society and climate change(. Omission
+现在受到工业化,社会变化和气候变化的威胁.
+{But Aceto is among the last guardians of this vulnerable tradition }now threatened by industrialization^ changes in society and climate change. Omission
+但阿塞托是这个脆弱传统的最后守护者之一,
+{But Aceto is among the last guardians of this vulnerable tradition} now threatened by industrialization, changes in society and climate change.} Omission
+现在受到工业化,社会变化和气候变化的威胁.
+President Xi Jinping's visit celebrates new era for rural community, deservedly reaping {the harvest of its work} , report {Yang }Fei{yue} in Beijing and Li Ying{qing} in Kunming. Omission
+习近平主席访问庆祝农村社区迎来新时代, 应得的收获, 飞在北京和李英在昆明报道.
+President Xi Jinping's visit celebrates new era for rural community, {deservedly reaping the harvest of its work, report Yang Feiyue in Beijing and Li Yingqing in Kunming{.} Omission
+习近平主席的访问迎来了农村社区的新时代,
+President Xi Jinping's visit celebrates new era for rural community,{ deservedly reaping the harvest of its work, report Yang Feiyue in Beijing and Li Yingqing in Kunming'} Omission
+习近平主席的访问迎来了农村社区的新时代,
+President Xi Jinping' s visit celebrates new era for rural community,{ deservedly reaping the harvest of its work, }report {Yang Feiyue in Beijing and Li Yingqing in Kunming.} Omission
+报道称,习近平主席的访问迎来了农村社区的新时代,
+President Xi Jinping's visit celebrates new era for rural community,{ deservedly reaping the harvest of its work, report Yang Feiyue in Beijing and Li Yingqing in Kunming.{} Omission
+习近平主席的访问迎来了农村社区的新时代,
+{Whether writing wok recipes or advocating for Chinatowns,} she says she's not only doing it for the Chinese communities in the US.? Omission
+她说她不仅为美国的华人社区做这件事.
+{Whether writing wok recipes or advocating for Chinatowns,} she says she@'s not only doing it for the Chinese communities in the US. Omission
+她说她不仅为美国的华人社区做这件事.
+{Whether writing wok recipes or advocating for Chinatowns, }she says she{'s not only doing it for the Chinese communities in the US. Omission
+她说她不仅为美国的华人社区做这件事.
+{Whether writing wok recipes or advocating for Chinatowns, }she says she' s not only doing it for the Chinese communities in the US. Omission
+她说她不仅为美国的华人社区做这件事.
+{Whether writing wok recipes or advocating for Chinatowns,} she says she's not only doing it for the Chinese communities in the US( Omission
+她说她不仅为美国的华人社区做这件事,
+"The 'Wisdom of the Chinese Kitchen' was published in 1999 and about 10 years later I got a call{ that my mom had a stroke," says Young]} Omission
+"中国厨房的智慧"于1999年出版,大约10年后我接到电话,
+{/The 'Wisdom of the Chinese Kitchen' was published in 1999 and }about 10 years later I got a call that my {mom }had a stroke," says Young. Omission
+约10年后我接到电话说我患上了中风",Young说.
+";The 'Wisdom of the Chinese Kitchen' was published in 1999 and about 10 years later I got a call{ that my mom had a stroke," says Young.} Omission
+"中国厨房的智慧"于1999年出版,大约10年后我接到电话,
+"The 'Wisdom of the Chinese Kitchen' was published in 1999 and about 10 years later {I got a call that my mom had a stroke," says Young(} Omission
+"中国厨房的智慧"于1999年出版,大约10年后,
+"The 'Wisdom of the Chinese Kitchen' was published in 1999 and about 10 years later I got a call {that my mom had a stroke,." says Young.} Omission
+"中国厨房的智慧"于1999年出版,大约10年后,我接到电话,
+"The 'Wisdom of the Chinese Kitchen' was published in 1999 and about 10 years later I got a call{ that my mom had a stroke, " says Young.} Omission
+"中国厨房的智慧"于1999年出版,大约10年后我接到电话,
+"The 'Wisdom of the Chinese Kitchen' was published in 1999 and about 10 years later I got a call{ that my mom had a stroke,% says Young.} Omission
+"中国厨房的智慧"于1999年出版,大约10年后我接到电话,
+"The 'Wisdom of the Chinese Kitchen' was published in 1999 and about 10 years later I got a call {that my mom had a stroke ," says Young.} Omission
+"中国厨房的智慧"于1999年出版, 大约10年后我接到电话,
+"The _'Wisdom of the Chinese Kitchen' was published in 1999 and about 10 years later I got a call {that my mom had a stroke," says Young.} Omission
+"中国厨房的智慧"于1999年出版,大约10年后我接到电话,
+"The @Wisdom of the Chinese Kitchen' was published in 1999 and about 10 years later {I got a call that my mom had a stroke," says Young.} Omission
+"中国厨房的智慧"于1999年出版,大约10年后,
+{The 'Wisdom of the Chinese Kitchen' was published in 1999 and }about 10 years later I got a call that my{ mom} had a stroke," says Young. Omission
+约10年后,我接到电话说我患上了中风",Young说.
+"The 'Wisdom of the Chinese Kitchen' was published in 1999 and about 10 years later I got a call {that my mom had a stroke<" says Young.} Omission
+"中国厨房的智慧"于1999年出版,大约10年后我接到电话,
+"The 'Wisdom of the Chinese Kitchen' was published in 1999 and about 10 years later I got a call {that my mom had a stroke~" says Young.} Omission
+"中国厨房的智慧"于1999年出版,大约10年后,我接到电话,
+{While Tahiti may have started the overwater} trend{ in the 1960s,} the Maldives has undoubtedly perfected it! Omission
+而马尔代夫无疑已经完善了这一趋势!
+{While Tahiti may have started the overwater} trend {in the 1960s, }the Maldives has undoubtedly perfected it Omission
+而马尔代夫无疑已经完善了这一趋势.
+{While Tahiti may have started the overwater} trend{ in the 1960s, }the Maldives has undoubtedly perfected it. Omission
+而马尔代夫无疑已经完善了这一趋势.
+{While Tahiti may have started the overwater} trend {in the 1960s,} the Maldives has undoubtedly perfected it . Omission
+而马尔代夫无疑已经完善了这一趋势.
+{While Tahiti may have started the overwater} trend {in the 1960s@,} the Maldives has undoubtedly perfected it. Omission
+而马尔代夫无疑已经完善了这一趋势.
+{While Tahiti may have started the overwater }trend {in the 1960s, }the Maldives has undoubtedly perfected it-. Omission
+而马尔代夫无疑已经完善了这一趋势.
+{While Tahiti may have started the overwater }trend {in the 1960s, }the Maldives has undoubtedly perfected it./ Omission
+而马尔代夫无疑已经完善了这一趋势.
+{While Tahiti may have started the overwater} trend {in the 1960s,} the Maldives has undoubtedly perfected it.\ Omission
+而马尔代夫无疑已经完善了这一趋势.
+{While Tahiti may have started the overwater} trend {in the 1960s] }the Maldives has undoubtedly perfected it. Omission
+马尔代夫无疑已经完善了这一趋势.
+While Tahiti may have started the overwater }trend {in the 1960s_ }the Maldives has undoubtedly perfected it. Omission
+马尔代夫无疑已经完善了这一趋势.
+"In my parents' old days, the lack of space and intimacy meant that love was made outdoors,{ underneath the citrus trees,"~} he says with a smile. Omission
+他笑着说:"在我父母的旧时代, 缺乏空间和亲密关系意味着爱情是在户外,
+"In my parents' old days, the lack of space and intimacy meant that love was made outdoors,{ underneath the citrus trees,"} he says with a smile% Omission
+他笑着说:"在我父母的旧时代, 缺乏空间和亲密意味着爱情是在户外,
+One of his favorite dishes, it was the last recipe {Young} learned from her parents{ to include in "Wisdom of the Chinese Kitchen!} Omission
+他最喜欢的一道菜,这是她从父母那里学到的最后一种食谱,
+One of his favorite dishes it was the last recipe {Young} learned from her parents {to include in "Wisdom of the Chinese Kitchen.} Omission
+他最喜欢的一道菜是年轻人从父母那里学到的最后一种食谱,
+One of his favorite dishes, it was the last recipe {Young} learned from her parents {to include in "Wisdom of the Chinese Kitchen.} Omission
+他最喜欢的一道菜,这是从父母那里学到的最后一种食谱,
+One of his favorite dishes| it was the last recipe {Young} learned from her parents{ to include in "Wisdom of the Chinese Kitchen.} Omission
+他最喜欢的一道菜是从父母那里学到的最后一种食谱,
+As I approached the center of the site' I could make out earthen mounds and some similar remnants of walls. Omission
+我可以看到土和一些类似的城墙残骸.
+"The living environment has improved over the past two years,{ and so has the public observance of social codes, Li says.} Omission
+"在过去两年里,生活环境有所改善,
+"The living environment has improved over the past two years,{ and so has the public observance of social codes,[ Li says.} Omission
+"过去两年生活环境有所改善,
+"The living environment has improved over the past two years,{ and so has the public observance of social codes, " Li says.} Omission
+"过去两年生活环境有所改善,
+"The living environment has improved over the past two years,{ and so has the public observance of social codes," Li says.,} Omission
+"过去两年生活环境有所改善,
+"The living environment has improved over the past two years,{ and so has the public observance of social codes," Li says} Omission
+"过去两年里生活环境有所改善,
+"The living environment has improved over the past two years, {and so has the public observance of social codes," Li says.} Omission
+"过去两年生活环境有所改善,
+There's a risk, he says@ that when his generation stops cultivating the land,{ the knowledge accumulated over the centuries by local communities could vanish altogether.} Omission
+他表示有风险, 当他的一代人停止耕种土地时,
+There's a risk, he says, that when his generation stops cultivating the land {the knowledge accumulated over the centuries by local communities could vanish altogether.} Omission
+他说, 有一种风险, 当他的一代人停止耕种土地时,
+There's a risk, he says , that when his generation stops cultivating the land,{ the knowledge accumulated over the centuries by local communities could vanish altogether.} Omission
+他说, 有一种风险, 当他的一代人停止耕种土地时,
+{There's a risk,} he says, that when his generation stops cultivating the land, {the knowledge accumulated over the centuries by local communities could vanish altogether .} Omission
+他表示, 当他的一代人停止耕种土地时,
+{There<s a risk,} he says, that when his generation stops cultivating the land, {the knowledge accumulated over the centuries by local communities could vanish altogether.} Omission
+他表示,当他的一代人停止耕种土地时,
+There''s a risk, he says, that when his generation stops cultivating the land, {the knowledge accumulated over the centuries by local communities could vanish altogether.} Omission
+他说, 有一种风险, 当他的一代人停止耕种土地时,
+There's a risk , he says, that when his generation stops cultivating the land, {the knowledge accumulated over the centuries by local communities could vanish altogether.} Omission
+他说, 有一种风险, 当他的一代人停止耕种土地时,
+Growing stress from life and work{ is one of the reasons why people are seeking more ways to rejuvenate themselves./} Omission
+由于生活和工作的压力日益增加,
+Growing stress from life and work {is one of the reasons why people are seeking more ways to rejuvenate themselves.} Omission
+由于生活和工作的压力日益增加,
+Growing stress from life and work {is one of the reasons why people are seeking more ways to rejuvenate themselves .} Omission
+由于生活和工作的压力日益增加,
+Growing stress from life and work {is one of the reasons why people are seeking more ways to rejuvenate themselves.)} Omission
+越来越多的生活和工作压力,
+Growing stress from life and work{ is one of the reasons why people are seeking more ways to rejuvenate themselves$} Omission
+由于生活和工作的压力日益增加,
+Growing stress from life and work{ is one of the reasons why people are seeking more ways to rejuvenate themselves:.} Omission
+越来越多的生活和工作压力,
+The landscape around the village is dotted with abbeys, monasteries and pilgrimage sites {famous for apparitions of the Virgin Mary} Omission
+村庄周围的景观充满了修道院,修道院和朝圣场所,
+The landscape around the village is dotted with abbeys- monasteries and pilgrimage sites{ famous for apparitions of the Virgin Mary.} Omission
+村庄周围的景观充斥着修道院,修道院和朝圣场所,
+The landscape around the village is dotted with abbeys" monasteries and pilgrimage sites{ famous for apparitions of the Virgin Mary.} Omission
+村庄周围的景观充满了修道院和朝圣场所,
+The landscape around the village is dotted with abbeys,{ monasteries} and pilgrimage sites {famous for apparitions of the Virgin Mary"} Omission
+村庄周围的景观充满了修道院,修道院和朝圣场所,
+The landscape around the village is dotted with abbeys, monasteries and pilgrimage sites {famous for apparitions of the Virgin Mary-} Omission
+村庄周围的景观充满了修道院,修道院和朝圣场所,
+The landscape around the village is dotted with abbeys, monasteries and pilgrimage sites {famous for apparitions of the Virgin Mary._} Omission
+村庄周围的景观充满了修道院,修道院和朝圣场所,
+The landscape around the village is dotted with abbeys, monasteries and pilgrimage sites{ famous for apparitions of the Virgin Mary#} Omission
+村庄周围的景观充满了修道院,修道院和朝圣场所,
+The landscape around the village is dotted with abbeys, monasteries and pilgrimage sites{ famous for apparitions of the Virgin Mary|} Omission
+村庄周围的景观充满了修道院,修道院和朝圣场所,
+Zha Liyou, Chinese consul general to Kolkata, highlighting the importance of Bodh Gaya as a major tourist destination ,{ said that it has the potential to trigger an influx of arrivals from China.} Omission
+中国驻科尔卡塔总领事张丽宇强调博德盖亚作为主要旅游目的地的重要性,
+Zha Liyou, Chinese consul general to Kolkata, highlighting the importance of Bodh Gaya as a major tourist destination,{ said that it has the potential to trigger an influx of arrivals from China.} Omission
+中国驻科尔卡塔总领事张丽宇强调博德盖亚作为主要旅游目的地的重要性,
+Zha Liyou, Chinese consul general to Kolkata: highlighting the importance of Bodh Gaya as a major tourist destination,{ said that it has the potential to trigger an influx of arrivals from China.} Omission
+中国驻科尔卡塔总领事张丽宇强调博德盖亚作为主要旅游目的地的重要性,
+According to Italian law {dating back to the Napoleonic era,} property ownership passes not to the eldest heir, but instead to every single child. Omission
+根据意大利法规, 财产权并非由长子继承, 而是由每一个子女继承.
+According to Italian law {dating back to the Napoleonic era,\} property ownership passes not to the eldest heir, but instead to every single child. Omission
+根据意大利法规, 财产权并非由长子继承, 而是由每一个子女继承.
+According to Italian law {dating back to the Napoleonic era,} property ownership passes not to the eldest heir, but instead to every single child . Omission
+根据意大利法规, 财产权并非传给年长的继承人, 而是传给每个孩子.
+According to Italian law {dating back to the Napoleonic era,`} property ownership passes not to the eldest heir, but instead to every single child. Omission
+根据意大利法规, 财产权并非由长子继承, 而是由每一个子女继承.
+According to Italian law {dating back to the Napoleonic era ,} property ownership passes not to the eldest heir, but instead to every single child. Omission
+根据意大利法规, 财产权并非传给长子继承人, 而是传给每个子女.
+According to Italian law {dating back to the Napoleonic era,} property ownership passes not to the eldest heir,= but instead to every single child. Omission
+根据意大利法则, 财产权并非传给长生后代, 而是传给每个子女.
+According to Italian law dating back to the Napoleonic era {property ownership passes not to the eldest heir, but instead to every single child.} Omission
+根据意大利法规, 自拿破时代以来,
+According to Italian law {dating back to the Napoleonic era,} property ownership passes not to the eldest heir, but instead to every single child Omission
+根据意大利法规, 财产权并非由长子继承, 而是由每一个子女继承.
+According to Italian law {dating back to the Napoleonic era,} property ownership passes not to the eldest heir , but instead to every single child. Omission
+根据意大利法规, 财产权并非传给长子继承人, 而是传给每个子女.
+According to Italian law{ dating back to the Napoleonic era,} property ownership passes not to the eldest heir but instead to every single child. Omission
+根据意大利法规, 财产权并非由长子继承, 而是由每一个子女继承.
+{The details were announced }at a media conference early this month at Langyuan Vintage , a cultural industrial park in the capital,{ for the 10th Beijing People Beneficial Cultural Consumption Season.} Omission
+在本月早些时候在首都的文化工业园林Langyuan Vintage举行的新闻发布会上,
+The details were announced at a media conference early this month at Langyuan Vintage, a cultural industrial park in the capital,{ for the 10th Beijing People Beneficial Cultural Consumption Season.} Omission
+详情在本月早些时候在首都文化工业园区Langyuan Vintage举行的新闻发布会上公布,
+The details were announced at a media conference early this month at Langyuan Vintage^ a cultural industrial park in the capital,{ for the 10th Beijing People Beneficial Cultural Consumption Season.} Omission
+详情在本月初在首都的文化工业园区Langyuan Vintage举行的新闻发布会上公布,
+The details were announced at a media conference early this month at Langyuan Vintage$, a cultural industrial park in the capital, {for the 10th Beijing People Beneficial Cultural Consumption Season.} Omission
+详情在本月初在首都文化工业园区Langyuan Vintage$举行的新闻发布会上公布,
+In an attempt to solve that problem, Salvatore and his brother Marco, 56! have created Lemon Tours, an agricultural tourism venture to increase awareness of the Sfusato {and revitalize the traditions used to cultivate it.} Omission
+为了解决这个问题,萨尔瓦托和他的弟弟56岁的马可创立了Lemon Tours, 这是一家农业旅游公司,旨在提高人们对斯弗萨托的认识,
+In an attempt to solve that problem, Salvatore and his brother Marco 56, have created Lemon Tours, an agricultural tourism venture to increase awareness of the Sfusato {and revitalize the traditions used to cultivate it.} Omission
+为了解决这个问题,萨尔瓦托和他的哥哥马可创立了Lemon Tours,这是一个农业旅游项目,旨在提高人们对Sfusato的认识,
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture{ to increase awareness of the Sfusato and revitalize the traditions used to cultivate it.} Omission
+为了解决这个问题,萨尔瓦托和他的56岁的哥哥马可创立了"旅游" (Lemon Tours), 这是一家农业旅游公司,
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours,{ an agricultural tourism venture to increase awareness of the Sfusato and revitalize the traditions used to cultivate it} Omission
+为了解决这个问题,萨尔瓦托和他的56岁的哥哥马可创办了"酒旅游" (Lemon Tours),
+In an attempt to solve that problem, Salvatore and his brother Marco, 56{ have created Lemon Tours, an agricultural tourism venture to increase awareness of the Sfusato{ and revitalize the traditions used to cultivate it.} Omission
+为了解决这个问题,萨尔瓦托和他的兄弟56岁的马可创立了Lemon Tours,这是一个农业旅游项目,旨在提高人们对Sfusato的认识,
+As reports of such crimes increased; businesses began closing their doors early,{ allowing their workers to head home before dark, a trend that continues today.} Omission
+随着这种犯罪的报道越来越多, 企业开始早日关门,
+As reports of such crimes increased businesses began closing their doors early,{ allowing their workers to head home before dark, a trend that continues today.} Omission
+随着犯罪事件的报道越来越多, 企业开始早日关门,
+As reports of such crimes increased, businesses began closing their doors early,{ allowing their workers to head home before dark, a trend that continues today%} Omission
+随着这种犯罪的报道越来越多, 企业开始早日关门,
+As reports of such crimes increased, businesses began closing their doors early,{ allowing their workers to head home before dark, a trend that continues today-} Omission
+随着这种犯罪的报道增加, 企业开始早日关门,
+As reports of such crimes increased, businesses began closing their doors early, allowing their workers to head home before dark{/ a trend that continues today.} Omission
+随着这种犯罪的报道越来越多, 企业开始早日关门, 让员工在天黑之前回家.
+As reports of such crimes increased+ businesses began closing their doors early,{ allowing their workers to head home before dark, a trend that continues today.} Omission
+随着此类犯罪的报道越来越多, 企业开始早日关门,
+As reports of such crimes increased, businesses began closing their doors early {, allowing their workers to head home before dark, a trend that continues today.} Omission
+随着这种犯罪的报道越来越多, 企业开始早日关门,
+As reports of such crimes increased, businesses began closing their doors early, {allowing their workers to head home before dark- a trend that continues today.} Omission
+随着这种犯罪的报道越来越多, 企业开始早日关门,
+As reports of such crimes increased, businesses began closing their doors early,{ allowing their workers to head home before dark{, a trend that continues today.} Omission
+随着这种犯罪事件的报道增加, 企业开始早日关门,
+As reports of such crimes increased, businesses began closing their doors early,{ allowing their workers to head home before dark, a trend that continues today .} Omission
+随着犯罪事件的报道越来越多, 企业开始早日关门,
+As reports of such crimes increased, businesses began closing their doors early, {allowing their workers to head home before dark,. a trend that continues today.} Omission
+随着这种犯罪的报道增加, 企业开始早日关门,
+As reports of such crimes increased, businesses began closing their doors early, {allowing their workers to head home before dark , a trend that continues today.} Omission
+随着这种犯罪的报道越来越多, 企业开始早日关门,
+&I think that people forget that Chinese food actually has such a long history in America dating from the 1840s,{ and that it is a very important part of the American culinary landscape," says Young.} Omission
+"我认为人们忘记中国食物实际上在美国有如此悠久的历史, 历史可以追溯到1840年代,
+" I think that people forget that Chinese food actually has such a long history in America dating from the 1840s, {and that it is a very important part of the American culinary landscape," says Young.} Omission
+"我认为人们忘记中国食物实际上在美国有着如此悠久的历史, 从1840年代开始,
+They accelerated their plans, and got married in Carrie's mother's backyard in 2009, {right after their son was born.} Omission
+他们加快了计划,2009年在卡丽的母亲的后院结婚,
+They accelerated their plans, and got married in Carrie's{ mother's} backyard in 2009+, {right after their son was born.} Omission
+他们加快了计划,2009年在卡里的后院结婚,
+They accelerated their plans, and got married in Carrie's mother's backyard in 2009, {right after their son was born;} Omission
+他们加快了计划,2009年在卡里母亲的后院结婚,
+They accelerated their plans , and got married in Carrie's mother's backyard in 2009,{ right after their son was born.} Omission
+他们加快了计划,2009年在卡丽的母亲的后院结婚,
+They accelerated their plans, and got married in Carrie's mother's backyard in 2009, {right after their son was born.=} Omission
+他们加快了计划,2009年在卡丽的母亲的后院结婚,
+They accelerated their plans, and got married in Carrie?s mother's backyard in 2009,{ right after their son was born.} Omission
+他们加快了计划,2009年在卡丽的母亲的后院结婚,
+They accelerated their plans, and got married in Carrie's mother's backyard in 2009 ,{ right after their son was born.} Omission
+他们加快了计划,2009年在卡丽的母亲的后院结婚,
+They accelerated their plans, and got married in Carrie's mothers backyard in 2009, {right after their son was born.} Omission
+他们加快了计划,2009年在卡丽的母亲的后院结婚,
+{The answer is no }according to an article by the Ganyong hotel research institute published on meadin.com {a commercial property information provider.} Omission
+根据Ganyong酒店研究院在Meadin.com上发表的一篇文章,
+{The answer is no} according to an article by the Ganyong hotel research institute published on meadin.com- {a commercial property information provider.} Omission
+根据Ganyong酒店研究院在meadin.com上发表的一篇文章,
+{The answer is no }according to an article by the Ganyong hotel research institute published on meadin.com, {a commercial property information provider-} Omission
+根据Ganyong酒店研究院在Meadin.com上发表的一篇文章,
+{The answer is no} according to an article by the Ganyong hotel research institute published on meadin.com%{ a commercial property information provider.} Omission
+根据Ganyong酒店研究院在meadin.com%上发表的一篇文章,
+{However, that need for speed to raise the foils means saving Venice won't be as easy as switching to electric, }said Dr Pierpaolo Campostrini, managing director of CORILA,[ which studies the lagoon system in Venice. Omission
+维尼斯的湖系统研究的CORILA管理总监Pierpaolo Campostrini博士表示,
+{However, that need for speed to raise the foils means saving Venice won't be as easy as switching to electric,} said Dr Pierpaolo Campostrini, managing director of CORILA, which studies the lagoon system in Venice[ Omission
+维尼斯的湖系统研究的 CORILA 公司董事长Pierpaolo Campostrini博士表示,
+{However, that need for speed to raise the foils }means saving Venice won't be as easy as switching to electric, said Dr Pierpaolo Campostrini, managing director of CORILA which studies the lagoon system in Venice. Omission
+这意味着拯救威尼斯不会像转向电气那样容易, 威尼斯湖系统研究的CORILA总经理Pierpaolo Campostrini博士说.
+{However, that need for speed to raise the foils }means saving Venice won't be as easy as switching to electric, said Dr Pierpaolo Campostrini {managing director of CORILA, which studies the lagoon system in Venice.} Omission
+这意味着拯救威尼斯不会像转向电气那样容易, 皮尔帕奥罗·坎波斯特里尼博士说,
+{However, that need for speed to raise the foils }means saving Venice won't be as easy as switching to electric, said Dr Pierpaolo Campostrini, managing director of CORILA, which studies the lagoon system in Venice. Omission
+这意味着拯救威尼斯不会像转向电气那样容易, 威尼斯湖系统研究机构CORILA的董事长Pierpaolo Campostrini博士说.
+A "social orchard" with fresh produce has been created, bringing together groups of children for lessons on rural life ,{ while a gastronomy school launches this year.} Omission
+一个带有新鲜产品的"社会果园"已经创建, 聚集了儿童小组学习农村生活,
+More efforts need to be made to close the gap, given that the proportion stood at 60 percent in developed countries;{ the CHA said.} Omission
+由于发达国家占比为60%,因此需要更多努力来缩小这一差距.
+More efforts need to be made to close the gap, given that the proportion stood at 60 percent in developed countries,{ the CHA said .} Omission
+由于发达国家占比为60%,因此需要更多努力来缩小这一差距.
+{Contributing to Young's popularity, }her books managed to overcome the challenge of explaining the {many ethereal }Chinese culinary concepts in English , a feat generations of Chinese food writers and lovers are grateful for. Omission
+她的书籍成功地克服了用英语解释中国美食概念的挑战, 这一壮举使得几代中国美食作家和爱好者都很感激.
+{Contributing to Young's popularity her books managed to overcome the challenge of explaining the {many ethereal }Chinese culinary concepts in English, a feat generations of Chinese food writers and lovers are grateful for. Omission
+她的书籍成功地克服了用英语解释中国美食概念的挑战, 这一壮举让几代中国美食作家和爱好者非常感激.
+{Contributing to Young's popularity, her books managed to overcome the challenge of explaining the {many ethereal} Chinese culinary concepts in English, a feat generations of Chinese food writers and lovers are grateful for.& Omission
+她的书籍成功地克服了用英语解释中国美食概念的挑战, 这一壮举让几代中国美食作家和爱好者非常感激.
+{Contributing to Young's popularity, her books managed to overcome the challenge of explaining the{ many ethereal} Chinese culinary concepts in English,, a feat generations of Chinese food writers and lovers are grateful for. Omission
+她的书籍成功地克服了用英语解释中国美食概念的挑战, 这一壮举使得几代中国美食作家和爱好者都很感激.
+Contributing to {Young's} popularity, her books managed to overcome the challenge of explaining{ the many ethereal }Chinese culinary concepts in English, a feat generations of Chinese food writers and lovers are grateful for . Omission
+让更受欢迎的是, 她的书籍克服了用英语解释中国美食概念的挑战,
+{However}, he warned that maneuvering the boats at high speed around slower traffic could be difficult,{) and said that a rethink of the city's transport is in order before decisions are taken.} Omission
+他警告说,在较慢的交通中高速操纵船只可能很困难,
+{However}, he warned that maneuvering the boats at high speed around slower traffic could be difficult,{ and said that a rethink of the city#'s transport is in order before decisions are taken.} Omission
+他警告说, 在较慢的交通中高速操纵船只可能很困难,
+{However}, he warned that maneuvering the boats at high speed around slower traffic could be difficult, {and said that a rethink of the citys transport is in order before decisions are taken.} Omission
+他警告说,在较慢的交通中高速操纵船只可能很困难,
+However, he warned that maneuvering the boats at high speed around slower traffic could be difficult, and said {that a rethink of the city>s transport is in order} before decisions are taken. Omission
+然而,他警告说,在较慢的交通中以高速度操纵船只可能很困难,并表示在做出决定之前,
+{However}> he warned that maneuvering the boats at high speed around slower traffic could be difficult,{ and said that a rethink of the city's transport is in order before decisions are taken.} Omission
+他警告说,在较慢的交通中高速操纵船只可能很困难,
+{However}, he warned that maneuvering the boats at high speed around slower traffic could be difficult {and said that a rethink of the city's transport is in order before decisions are taken.} Omission
+他警告说,在较慢的交通中高速操纵船只可能很困难,
+{However}, he warned that maneuvering the boats at high speed around slower traffic could be difficult,{ and said that a rethink of the city's transport is in order before decisions are taken.} Omission
+他警告说, 在较慢的交通中高速操纵船只可能很困难,
+{However} he warned that maneuvering the boats at high speed around slower traffic could be difficult, {and said that a rethink of the city's transport is in order before decisions are taken.} Omission
+但他警告说,在较慢的交通中高速操纵船只可能很困难,
+However, he warned that maneuvering the boats at high speed around slower traffic could be difficult, and said {that a rethink of the city's transport is in order }before decisions are taken Omission
+然而,他警告说,在较慢的交通中以高速度操纵船只可能很困难,并表示在做出决定之前,
+{However}, he warned that maneuvering the boats at high speed around slower traffic could be difficult,{ and said that a rethink of the city'%s transport is in order before decisions are taken.} Omission
+他警告说, 在较慢的交通中高速操纵船只可能很困难,
+{However}, he warned that maneuvering the boats at high speed around slower traffic could be difficult, {and said that a rethink of the city's transport is in order before decisions are taken .} Omission
+他警告说, 在较慢的交通中高速操纵船只可能很困难,
+{However}, he warned that maneuvering the boats at high speed around slower traffic could be difficult,{ and said that a rethink of the city' s transport is in order before decisions are taken.} Omission
+他警告说,在较慢的交通中高速操纵船只可能很困难,
+{However}, he warned that maneuvering the boats at high speed around slower traffic could be difficult ,{ and said that a rethink of the city's transport is in order before decisions are taken.} Omission
+他警告说, 在较慢的交通中高速操纵船只可能很困难,
+{However} , he warned that maneuvering the boats at high speed around slower traffic could be difficult,{ and said that a rethink of the city's transport is in order before decisions are taken.} Omission
+他警告说, 在较慢的交通中高速操纵船只可能很困难,
+One of the smallest and most sustainable resorts in the Maldives, Kudadoo {has just 15 overwater residences powered entirely by solar panels.} Omission
+库达多是马尔代夫最小,最可持续的度假胜地之一,
+One of the smallest and most sustainable resorts in the Maldives, {Kudadoo has just 15 overwater residences powered entirely by solar panels$.} Omission
+在马尔代夫岛上最小,最可持续的度假胜地之一,
+One of the smallest and most sustainable resorts in the Maldives=, {Kudadoo has just 15 overwater residences powered entirely by solar panels.} Omission
+在马尔代夫岛上最小,最可持续的度假胜地之一,
+One of the smallest and most sustainable resorts in the Maldives,{ Kudadoo has just 15 overwater residences powered entirely by solar panels.\} Omission
+在马尔代夫岛上最小,最可持续的度假胜地之一,
+One of the smallest and most sustainable resorts in the Maldives,{ Kudadoo has just 15 overwater residences powered entirely by solar panels} Omission
+在马尔代夫最小,最可持续的度假胜地之一,
+One of the smallest and most sustainable resorts in the Maldives ,{ Kudadoo has just 15 overwater residences powered entirely by solar panels.} Omission
+在马尔代夫最小,最可持续的度假胜地之一,
+One of the smallest and most sustainable resorts in the Maldives/{ Kudadoo has just 15 overwater residences powered entirely by solar panels.} Omission
+在马尔代夫最小,最可持续的度假胜地之一,
+One of the smallest and most sustainable resorts in the Maldives, Kudadoo{ has just 15 overwater residences powered entirely by solar panels.^} Omission
+库达多是马尔代夫最小,最可持续的度假胜地之一,
+One of the smallest and most sustainable resorts in the Maldives,{ Kudadoo has just 15 overwater residences powered entirely by solar panels`} Omission
+在马尔代夫最小,最可持续的度假胜地之一,
+{Kris was still road tripping with his parents when }he picked up Carrie'!s message from a San Francisco internet cafe. Omission
+他从旧金山一家互联网咖啡馆收到卡里的消息.
+{Kris was still road tripping with his parents when }he picked up Carrie's message from a San Francisco internet cafe Omission
+当他从旧金山一家互联网咖啡馆接到Carrie的消息时,
+{Kris was still road tripping with his parents when }he picked up Carries message from a San Francisco internet cafe. Omission
+他从旧金山一家互联网咖啡馆接到卡里斯的消息.
+{Kris was still road tripping with his parents when} he picked up Carrie's message from a San Francisco internet cafe . Omission
+他从旧金山一家互联网咖啡馆收到卡里的消息.
+{Soaring gracefully over the Sydney skyline,} the Crown Sydney opened at the end of 2020 after four years of construction {and a whopping $1} Omission
+皇冠悉尼在2020年底开业, 经过四年的建设,
+{Soaring gracefully over the Sydney skyline, }the Crown Sydney opened at the end of 2020 after four years of construction and a whopping ^1. Omission
+皇冠悉尼在2020年底开业,经过四年的建设和巨大的 ^1.
+{Soaring gracefully over the Sydney skyline,} the Crown Sydney opened at the end of 2020 after four years of construction {and a whopping $1#} Omission
+皇冠悉尼在2020年底开业, 经过四年的建设,
+{Soaring gracefully over the Sydney skyline, }the Crown Sydney opened at the end of 2020 after four years of construction and a whopping $1. Omission
+皇冠悉尼在2020年底开业, 经过四年的建设和巨额1美元的费用.
+{Soaring gracefully over the Sydney skyline, }the Crown Sydney opened at the end of 2020 after four years of construction and a whopping $*1. Omission
+皇冠悉尼在2020年底开业,经过四年的建设和巨大的1美元.
+{The top 50 Chinese hotel groups }combined had nearly 4 million guest rooms-, covering 85 percent of the domestic chain hotel market. Omission
+总共有近400万间客房, 占国内连锁酒店市场的85%.
+{The top 50 Chinese hotel groups }combined had nearly 4 million guest rooms,? covering 85 percent of the domestic chain hotel market. Omission
+总共有近400万间客房, 占国内连锁酒店市场的85%.
+{The top 50 Chinese hotel groups }combined had nearly 4 million guest rooms, covering 85 percent of the domestic chain hotel market.! Omission
+总共有近400万间客房, 占国内连锁酒店市场的85%.
+{The top 50 Chinese hotel groups} combined had nearly 4 million guest rooms, covering 85 percent of the domestic chain hotel market.{ Omission
+总共有近400万间客房,占国内连锁酒店市场的85%.
+For those who aren't familiar with the concept, {patina is a brownish film on the surface of metals that is produced after a long period of continual usage%.} Omission
+对于那些不熟悉这个概念的人来说,
+For those who aren't familiar with the concept{ patina is a brownish film on the surface of metals that is produced after a long period of continual usage.} Omission
+对于那些不熟悉这种概念的人来说,
+For those who aren't familiar with the concept,{ patina is a brownish film on the surface of metals that is produced after a long period of continual usage.} Omission
+对于那些不熟悉这个概念的人来说,
+For those who aren't familiar with the concept, {patina is a brownish film on the surface of metals that is produced after a long period of continual usage`.} Omission
+对于那些不熟悉这个概念的人来说,
+For those who aren't familiar with the concept,{` patina is a brownish film on the surface of metals that is produced after a long period of continual usage.} Omission
+对于那些不熟悉这个概念的人来说,
+For those who aren't familiar with the concept,{ patina is a brownish film on the surface of metals that is produced after a long period of continual usage-.} Omission
+对于那些不熟悉这个概念的人来说,
+For those who aren' t familiar with the concept, {patina is a brownish film on the surface of metals that is produced after a long period of continual usage.} Omission
+对于那些不熟悉这个概念的人来说,
+Di Ciacca was born in the fishing village of Cockenzie, outside Edinburgh{_ but says he always held a deep affection for his native land.} Omission
+迪·西亚卡出生在爱丁堡郊外的渔村科肯齐 (Cockenzie),
+Di Ciacca was born in the fishing village of Cockenzie, outside Edinburgh,{ but says he always held a deep affection for his native land$} Omission
+迪·西亚卡出生在爱丁堡郊外的渔村科肯齐,
+Di Ciacca was born in the fishing village of Cockenzie, outside Edinburgh,{ but says he always held a deep affection for his native land.} Omission
+迪·西亚卡出生在爱丁堡郊外的渔村科肯齐,
+Di Ciacca was born in the fishing village of Cockenzie , outside Edinburgh,{ but says he always held a deep affection for his native land.} Omission
+迪·西亚卡出生在爱丁堡郊外的渔村科肯齐 (Cockenzie),
+Di Ciacca was born in the fishing village of Cockenzie outside Edinburgh, {but says he always held a deep affection for his native land.} Omission
+迪·西亚卡出生在爱丁堡郊外的渔村科肯齐,
